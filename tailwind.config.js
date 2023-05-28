@@ -6,7 +6,8 @@ module.exports = {
   theme: {
     extend: {
       textColor: {
-        main: "#14141E"
+        main: "#14141E",
+        border: "#EEEEEE"
       }
     },
   },
